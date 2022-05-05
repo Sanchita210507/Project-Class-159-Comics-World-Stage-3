@@ -19,7 +19,7 @@ AFRAME.registerComponent("info-banner", {
           title: "Captain America : Civil War",
           released_year: "2006",
           description:
-            "'Civil War' is a Marvel Comics crossover storyline consisting of a seven-issue limited series written by Mark Millar and penciled by Steve McNiven. Political pressure mounts to install a system of accountability when the actions of the Avengers lead to collateral damage. The new status quo deeply divides members of the team. Captain America believes superheroes should remain free to defend humanity without government interference. Iron Man sharply disagrees and supports oversight. As the debate escalates into an all-out feud, Black Widow and Hawkeye must pick a side.",
+            "'Civil War' is a Marvel Comics crossover storyline consisting of a seven-issue limited series written by Mark Millar and penciled by Steve McNiven. Political pressure mounts to install a system of accountability when the actions of the Avengers lead to collateral damage.",
         },
         "Avengers": {
           banner_url: "./assets/thumbnails/comic3.jpg",
