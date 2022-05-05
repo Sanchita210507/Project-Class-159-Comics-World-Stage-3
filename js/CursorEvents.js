@@ -24,7 +24,7 @@ AFRAME.registerComponent("cursor-listener", {
 
     handleComicsListState:function(){
         const id = this.el.getAttribute("id");
-        const comicsId = ["comic1","comic2","comic3","comic4"];
+        const comicsId = ["Infinity Gauntlet","Captain-America2","Avengers","Spider-Man"];
 
         if(comicsId.includes(id)){
             const comicsContainer = document.querySelector("#comics-container")
