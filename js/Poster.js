@@ -10,22 +10,22 @@ AFRAME.registerComponent("comic", {
      createCards: function () {
        const thumbnailsRef = [
          {
-           id: "comic1",
+           id: "Infinity Gauntlet",
            title: "The Infinity Gauntlet",
            url: "./assets/thumbnails/comic1.jpg"
          },
          {
-          id: "comic2",
+          id: "Captain-America",
           title: "Captain America : Civil War",
           url: "./assets/thumbnails/comic2.jpg"
         },
         {
-          id: "comic3",
+          id: "Avengers",
           title: "The Avengers",
           url: "./assets/thumbnails/comic3.jpg"
         },
         {
-          id: "comic4",
+          id: "Spider-Man",
           title: "Spider Man : Amazing Fantasy",
           url: "./assets/thumbnails/comic4.jpg"
         },
